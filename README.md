@@ -1,4 +1,4 @@
-# Quantum-Computing algorithms based on Rydberg atom based emulators
+# Quantum algorithms for neutral atom based information processors
 
 Here, I provide a set of elementary codes that provide basic introduction to Rydberg atom based quantum computational platform. 
 
